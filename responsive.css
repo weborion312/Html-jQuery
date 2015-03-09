@@ -1,0 +1,127 @@
+@media only screen and (max-device-width: 767px) {
+	.aboutcon {   height: auto;
+		left:6% !important;
+		margin-left:0px !important;
+		margin-top:0px !important;
+		position: absolute;
+		top: 0% !important;
+		width:90%;!important}
+		.abouttextchef {
+		top: 369px;}
+		.aboutchef {
+		top: 317px;
+	}
+}
+@media all and (max-width: 1024px) and (min-width: 979px) {
+	body{
+		max-width: 980px !important;
+	}
+	.aboutcon {   
+		height: auto;
+		left:49% !important;
+	}
+	.abouttextchef {
+		top: 330px !important;
+	}
+    .aboutchef {
+		top: 250px !important;
+	}
+	#logocon {
+		height: 250px !important;
+		left: 100px !important;
+		position: absolute !important;
+		top: 14% !important;
+		width: 700px !important;
+	}
+	#sroll2 {
+		top: 150% !important;
+	}
+	.aboutcon {
+		left: 50% !important;
+	}
+	.productcon {
+		left: 47% !important;
+		margin-left: -410px !important;
+		overflow: hidden !important;
+		width: 900px !important;
+	}
+	#pl202{
+		top: 495px !important;
+	}
+}
+
+@media all and (max-width: 979px) and (min-width: 767px) {
+	body{
+		max-width: 768px !important;
+	}
+	.aboutcon {   
+		height: auto;
+		left:50% !important;
+	}
+	.abouttextchef {
+		top: 330px !important;
+	}
+    .aboutchef {
+		top: 250px !important;
+	}
+	#logocon {
+		height: 250px !important;
+		left: 100px !important;
+		position: absolute !important;
+		top: 14% !important;
+		width: 700px !important;
+	}
+	#sroll2 {
+		top: 150% !important;
+	}
+	.aboutcon {
+		left: 50% !important;
+	}
+	.productcon {
+		left: 47% !important;
+		margin-left: -410px !important;
+		overflow: hidden !important;
+		top: 65% !important;
+		width: 768px !important;
+	}
+	#sroll9 .productcon {
+		left: 58% !important;
+	}
+	#pl202{
+		top: 514px !important;
+	}
+}
+
+@media all and (max-width: 900px) and (min-width: 460px) {
+
+	.button2 {
+		width: 50px;
+		height: 50px;
+		background-size: cover;
+		position: relative;
+		float: left;
+		margin-left: 5px!important;
+		left: 0;
+	}
+
+	#scroller {
+		left: -65px;
+	}
+
+}
+
+@media (max-width: 900px) {
+	#slide0, #slide1, #slide2, #slide3, #slide4, #slide5, #slide21, #slide31, #slide6, #slide7, #slide8, #slide9, #slide10,
+	 #slide11, #slide12, #slide13, #slide14, #slide15, #maskr1, #maskr2, #maskr3, #maskr4, #maskr5, #maskr6, #maskr7,
+	  #maskr8, #maskr9, #maskr10, #maskr11, #maskr12, #maskr13, #maskr14, #maskl1 {
+	  	background-size: cover;
+	  }
+}
+
+@media (max-device-width: 900px) {
+	#slide0, #slide1, #slide2, #slide3, #slide4, #slide5, #slide21, #slide31, #slide6, #slide7, #slide8, #slide9, #slide10,
+	 #slide11, #slide12, #slide13, #slide14, #slide15, #maskr1, #maskr2, #maskr3, #maskr4, #maskr5, #maskr6, #maskr7,
+	  #maskr8, #maskr9, #maskr10, #maskr11, #maskr12, #maskr13, #maskr14, #maskl1 {
+	  	background-size: cover;
+	  }
+}
